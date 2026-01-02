@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api/contacts';
+const API_BASE_URL = 'https://contact-manager-backend1.onrender.com/api/contacts';
 
 // Fetch all contacts
 export const getContacts = async () => {
